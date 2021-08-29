@@ -173,7 +173,7 @@ def gen_wordcloud(dict_words, language, year):
         file_svg.write(svg)
         file_svg.close()
         plt.axis("off")
-    # plt.show()
+    plt.show()
 
 
 # select_top_topic()
@@ -183,4 +183,4 @@ def gen_wordcloud(dict_words, language, year):
 
 # gen_wordcloud(dict_words, language, year)
 
-barplot_domain()
+# barplot_domain()
