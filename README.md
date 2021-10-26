@@ -1,6 +1,6 @@
 # lda_topics_metaheuristics
 
-NLP pipeline, Topic Classification and hyperparameter tuning algorithms developed for the research 
+NLP pipeline, Topic Classification and multicore hyperparameter tuning algorithms developed for the research 
 __"How COVID-19 Impacted Data Science: a Topic Retrieval and Analysis from GitHub Projects' Descriptions"__ _(paper under process for publication, 
 presented on [Brazilian Symposium On Databases 2021 (SBBD)](https://sbbd.org.br/2021/))_
 
