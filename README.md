@@ -1,7 +1,7 @@
 # lda_topics_metaheuristics
 
 NLP pipeline, Topic Classification and hyperparameter tuning algorithms developed for the research 
-"How COVID-19 Impacted Data Science: a Topic Retrieval and Analysis from GitHub Projects' Descriptions" _(paper under process for publication, 
+__"How COVID-19 Impacted Data Science: a Topic Retrieval and Analysis from GitHub Projects' Descriptions"__ _(paper under process for publication, 
 presented on [Brazilian Symposium On Databases 2021 (SBBD)](https://sbbd.org.br/2021/))_
 
 This work compares topics of interest from Data Science projects and their evolution over the COVID-19 pandemic period by analyzing Jupyter Notebook 
