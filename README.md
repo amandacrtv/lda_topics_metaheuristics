@@ -20,7 +20,7 @@ The research dataset is also available on Zenodo: [Greed:  Github repositories a
 * [numpy](https://numpy.org/)
 * Term Frequency and Inverse Document Frequency (TF-IDF)
 * Latent Dirichlet Allocation (LDA)
-* Differential Evolution-ary (DE) and its Self Adaptive version (SADE)
+* Differential Evolutionary (DE) and its Self Adaptive version (SADE)
 * Genetic Algorithm (GA)
 * Particle Swarm Optimization (PSO) and its Generational version (GPSO) 
 * Simulated Annealing (SA)
