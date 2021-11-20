@@ -1,8 +1,7 @@
 # lda_topics_metaheuristics
 
 NLP pipeline, Topic Classification and multicore hyperparameter tuning algorithms developed for the research 
-__"How COVID-19 Impacted Data Science: a Topic Retrieval and Analysis from GitHub Projects' Descriptions"__ _(paper under process for publication, 
-presented on [Brazilian Symposium On Databases 2021 (SBBD)](https://sbbd.org.br/2021/))_
+[__"How COVID-19 Impacted Data Science: a Topic Retrieval and Analysis from GitHub Projects' Descriptions"__](https://sol.sbc.org.br/index.php/sbbd/article/view/17893) (presented at the [Brazilian Symposium On Databases 2021 (SBBD)](https://sbbd.org.br/2021/))
 
 This work compares topics of interest from Data Science projects and their evolution over the COVID-19 pandemic period by analyzing Jupyter Notebook 
 and Python GitHub projects from a year before and during the pandemic. We employ various state-of-art algorithms to find topics based on the repositories descriptions, 
@@ -29,4 +28,4 @@ The research dataset is also available on Zenodo: [Greed:  Github repositories a
 
 The `Topic Aggregation_5stars.ipynb` file is a Jupyter Notebook document that presents steps while aggregating topics into domains.
 
-More details on the research paper _(paper under process for publication)_
+More details in the [research paper](https://sol.sbc.org.br/index.php/sbbd/article/view/17893)
